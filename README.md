@@ -1,4 +1,4 @@
-# Note Taking App made in Flutter with Sqlite database 
+# Notes - Flutter with Sqlite database and SonarQube 
  This is a note taking app made with flutter.<br>
 ## Concepts used:
 <ul>
@@ -13,7 +13,7 @@
 1. Download and install Java 11 on your system. 
 2. Download the SonarQube Community Edition zip file
 3. Download the SonarScanners (Code Analyzer)
-4. Download the Flutter Plug-In (For Flutter Only)
+4. **Download the Flutter Plug-In (For Flutter Only)**
 
 #Step2
 Set Environment Path:
